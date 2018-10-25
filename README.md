@@ -1,6 +1,6 @@
 # Dino fact generator
 ## Dockerized Create-React-App
-**_AUTHOR https://github.com/biglovisa/dinojs-client_**
+**_FROM https://github.com/biglovisa/dinojs-client_**
 
 This is a small react application which will generate dinosaur facts when clicking a button.
 
